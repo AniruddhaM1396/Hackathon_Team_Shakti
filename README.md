@@ -8,10 +8,6 @@ To get started, simply add friends. Add payment made by each friend during the t
 
 ## App
 
-Here's the [link](https://swport.github.io/payment-split) to the app
+https://65bf2b92f775d91e749d7e32--mellifluous-pony-1b08b6.netlify.app/
 
-https://swport.github.io/payment-split
 
-## Todo
-
-Unit and integration test cases
